@@ -42,13 +42,10 @@ SPDX has been participating in the Google Summer of Code program for a number of
 
 You can see the projects implemented and the project ideas published each year by looking at the corresponding files:
 
-- 2022 projects and [ideas](2022_ideas.md)
-- 2021 projects and ideas
-- 2020
-- 2019
-- 2018
-- 2017
-- 2016
-- 2015
-- 2014
+- 2022 [projects](2022_projects.md) and [ideas](2022_ideas.md)
+- 2021 [projects](2021_projects.md) and [ideas](2021_ideas.md)
+- 2020 [projects](2020_projects.md)
+- 2019 [projects](2019_projects.md)
+- 2018 [projects](2018_projects.md)
+- 2017 [projects](2017_projects.md)
 
