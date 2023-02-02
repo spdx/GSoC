@@ -21,6 +21,22 @@ This can be either a short (175 hours) project, implementing only the basic func
 
 Alexios Zavras; TBD
 
+## Fix Manifest Parsers for SPDX generator
+
+The [spdx-sbom-generator](https://github.com/opensbom-generator/spdx-sbom-generator/) project relies on the accuracy of the parsers in the [parsers](https://github.com/opensbom-generator/parsers) project. Most of the parsers in this project need to be evaluated for accuracy and/or rewritten such that they provide accurate information.
+
+### Skills Needed
+
+- Go (for programming)
+- Docker (for testing or experimentation)
+
+### Duration
+
+This can either be a short project where a candidate can choose a package manager and work towards rewriting the existing parser; or a long project where a candidate can pick more than one package manager to work with.
+
+### Available Mentors
+
+- Nisha Kumar
 
 ## More to come...
 
