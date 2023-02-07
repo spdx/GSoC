@@ -32,6 +32,7 @@ It would greatly increase the efficiency of license submissions and ease the wor
 * [differentiate exceptions from license submissions](https://github.com/spdx/spdx-online-tools/issues/398)
 * add or fix unit tests
 * improve erros handling, especially when Github pull requests fail
+* various improvements on the tool are documented as GitHub tickets tagged Submit New License https://github.com/spdx/spdx-online-tools/issues?q=is%3Aissue+is%3Aopen+label%3A%22Submit+New+License%22
 * automatically create a PR with the XML and .txt file when the license submission issue is labeled as "accepted" in the Github repo (these files may need to be edited once the PR is created, but this could remove a step of having to do this manually?)
 * automatcally archive or remove the listing from the online tool, once the PR is merged (optional)
 
