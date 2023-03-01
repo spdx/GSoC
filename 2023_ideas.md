@@ -71,7 +71,31 @@ This can either be a short project where a candidate can choose a package manage
 
 ### Available Mentors
 
-- Nisha Kumar
+Nisha Kumar
+
+## Software Heritage SPDX generation
+
+Generate SPDX documents from Software Heritage identifiers.
+
+### Description
+
+[SoftWare Heritage persistent IDentifiers (SWHIDs)](https://docs.softwareheritage.org/devel/swh-model/persistent-identifiers.html) are stable identifiers for software. From a SWHID reference, the tool should make use of the available Python library to generate valid and complete SPDX documents.
+
+For example, for a SWHID pointing to a single file, it will be simply include the file data (e.g., name, hash, license found).  For a SWHID pointing to a a directory, the generated document should include the collection of such data for all files included therein.
+
+This generation should be integrated to the [Software Heritage software](https://gitlab.softwareheritage.org/) in both command-line and Web user interfaces.
+
+### Technologies
+
+Python
+
+### Duration
+
+This will most probably be a short (175 hours) project, although its scope can be extended to a long (350 hours) one, implementing more functionality.
+
+### Available Mentors
+
+TBD
 
 ## More to come...
 
