@@ -62,8 +62,7 @@ Medium
 
 
 ### Available Mentors  
-* Jilayne Lovejoy (tentatively - need someone else who is technically savvy, but I can help with the more non-technical side of this)
-
+* Jilayne Lovejoy , Rohit Lodha
 
 ## Fix Manifest Parsers for SPDX generator
 
