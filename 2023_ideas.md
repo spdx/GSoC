@@ -41,7 +41,7 @@ Apart from these license related feature, it would be good to enhance the online
   * Have a base reusable Django app which contains the core functionality of interacting with java tools and xml along with webapp and api built on top of this base app
   * Separate current tests for different features and add Github APIs interaction tests with mock. Add tests for edge cases which are not currently handled.
   * Add linters to the project - python/js/html/css linters
-  * More improvmentds feature can be found at - https://github.com/spdx/spdx-online-tools/issues/309
+  * More improvments feature can be found at - https://github.com/spdx/spdx-online-tools/issues/309
   * More smaller issues can be found at - https://github.com/spdx/spdx-online-tools/issues
 
 GSoC project is not expected to include all the features listed above/additonal links but depends on what all can be picked up by the contributor in 12 weeks timeline.
