@@ -79,7 +79,7 @@ This can either be a short project where a candidate can choose a package manage
 
 ### Available Mentors
 
-Nisha Kumar
+Nisha Kumar, Adolfo García Veytia
 
 ## Software Heritage SPDX generation
 
