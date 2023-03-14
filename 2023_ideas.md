@@ -37,6 +37,15 @@ It would greatly increase the efficiency of license submissions and ease the wor
 * automatically create a PR with the XML and .txt file when the license submission issue is labeled as "accepted" in the Github repo (these files may need to be edited once the PR is created, but this could remove the manual step of initial creation of the files)
 * automatcally archive or remove the license listing from the online tool UI, once the PR is merged (optional)
 
+Apart from these license related feature, it would be good to enhance the online tools with the following features
+  * Have a base reusable Django app which contains the core functionality of interacting with java tools and xml along with webapp and api built on top of this base app
+  * Separate current tests for different features and add Github APIs interaction tests with mock. Add tests for edge cases which are not currently handled.
+  * Add linters to the project - python/js/html/css linters
+  * More improvments feature can be found at - https://github.com/spdx/spdx-online-tools/issues/309
+  * More smaller issues can be found at - https://github.com/spdx/spdx-online-tools/issues
+
+GSoC project is not expected to include all the features listed above/additonal links but depends on what all can be picked up by the contributor in 12 weeks timeline.
+
 
 ### Skills Needed  
 * Django and python skills
@@ -53,8 +62,7 @@ Medium
 
 
 ### Available Mentors  
-* Jilayne Lovejoy (tentatively - need someone else who is technically savvy, but I can help with the more non-technical side of this)
-
+* Jilayne Lovejoy , Rohit Lodha
 
 ## Fix Manifest Parsers for SPDX generator
 
