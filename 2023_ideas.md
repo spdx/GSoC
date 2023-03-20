@@ -35,7 +35,7 @@ It would greatly increase the efficiency of license submissions and ease the wor
    * improve error handling, especially when Github pull requests fail
 
 * automatically create a PR with the XML and .txt file when the license submission issue is labeled as "accepted" in the Github repo (these files may need to be edited once the PR is created, but this could remove the manual step of initial creation of the files)
-* automatcally archive or remove the license listing from the online tool UI, once the PR is merged (optional)
+* automatically archive or remove the license listing from the online tool UI, once the PR is merged (optional)
 
 Apart from these license related feature, it would be good to enhance the online tools with the following features
   * Have a base reusable Django app which contains the core functionality of interacting with java tools and xml along with webapp and api built on top of this base app
