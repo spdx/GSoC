@@ -28,7 +28,7 @@ The SPDX-legal team relies heavily on the "submit new license" online tool acces
 This online tool also currently has good capability for creating the [XML file](https://github.com/spdx/license-list-XML) necessary for licenses that have been accepted to the SPDX License List and submitting a PR to the SPDX License List Github repo. 
 
 It would greatly increase the efficiency of license submissions and ease the workload of the SPDX-legal team if we could add the following fucntionality:
-* various improvements on the tool are documented as [GitHub tickets tagged Submit New License[(https://github.com/spdx/spdx-online-tools/issues?q=is%3Aissue+is%3Aopen+label%3A%22Submit+New+License%22) notably:
+* various improvements on the tool are documented as [GitHub tickets tagged Submit New License](https://github.com/spdx/spdx-online-tools/issues?q=is%3Aissue+is%3Aopen+label%3A%22Submit+New+License%22) notably:
    * [generate the .txt test file in the PR](https://github.com/spdx/spdx-online-tools/issues/399), along with the XML file
    * [differentiate exceptions from license submissions](https://github.com/spdx/spdx-online-tools/issues/398)
    * add or fix unit tests
