@@ -23,18 +23,18 @@ Beyond working with your mentor(s) we highly encourage students who select one o
 
 ## Resources
 
-  - [SPDX website](http://spdx.org)
-  - [SPDX Specification](https://spdx.org/specifications)
-  - [SPDX Workgroup Tools webpage](https://spdx.org/tools)
-  - [SPDX tech mailing list](https://lists.spdx.org/mailman/listinfo/spdx-tech)
+  - [SPDX website](http://spdx.dev)
+  - [SPDX Specification](https://spdx.dev/use/specifications)
+  - [SPDX Tools webpage](https://spdx.dev/use/tools)
+  - [SPDX tech mailing list](https://lists.spdx.org/g/spdx-tech)
 
 
 Should you have questions please do not hesitate to contact one of the mentors directly.
 
 
-## Current (2023) Project Ideas
+## Current (2024) Project Ideas
 
-You can find the project ideas for this year's program [here](2023_ideas.md).
+You can find the project ideas for this year's program [here](2024_ideas.md).
 
 ## Past projects and project ideas
 
@@ -42,6 +42,7 @@ SPDX has been participating in the Google Summer of Code program for a number of
 
 You can see the projects implemented and the project ideas published each year by looking at the corresponding files:
 
+- 2023 [projects](2023_projects.md) and [ideas](2023_ideas.md)
 - 2022 [projects](2022_projects.md) and [ideas](2022_ideas.md)
 - 2021 [projects](2021_projects.md) and [ideas](2021_ideas.md)
 - 2020 [projects](2020_projects.md)
