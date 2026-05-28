@@ -6,10 +6,10 @@ First and foremost we are a community dedicated to solving the issues and proble
 
 As part of this effort we have developed a set of collateral that can be used:
 
-- [License List and Short Identifiers](https://spdx.org/using-spdx)
-- [SPDX Specification for generating SPDX Documents in multiple formats](https://spdx.org/using-spdx)
+- [License List and Short Identifiers](https://spdx.org/licenses/)
+- [SPDX Specification for generating SPDX Documents in multiple formats](https://spdx.org/specifications/)
 - [A set of basic tools for working with SPDX Documents](https://spdx.org/tools)
-- [License Identifiers in source](https://spdx.org/using-spdx)
+- [License Identifiers in source](https://spdx.github.io/using/license-id-in-source/)
 
 ## Why choose an SPDX project?
 
@@ -21,7 +21,7 @@ Beyond working with your mentor(s) we highly encourage students who select one o
 
 ## Resources
 
-- [SPDX website](http://spdx.dev)
+- [SPDX website](https://spdx.dev)
 - [SPDX Specification](https://spdx.dev/use/specifications)
 - [SPDX Tools webpage](https://spdx.dev/use/tools)
 - [SPDX tech mailing list](https://lists.spdx.org/g/spdx-tech)
